@@ -26,6 +26,8 @@
 - Closures,
 - Shallow copy, deep copy (spread op can't do deep copy, how to do it manually),
 - using Object.entries clone nested obj to nested arr (I mentioned Object.entries in prev qs),
+- Typescript basics + pros and cons
+- React lifecycle in both class and function based
 - Prototype (Implement a custom function on Array using prototype)
 
 ❌ Missed:
@@ -35,4 +37,6 @@
 - 0(1) in modified BS
 - spread op {... obj} only copies first level key values (swallow), missed there
 
+Feedback:
+- You have good knowledge, practice more in depth
 ----------------------------------------------------------------------
