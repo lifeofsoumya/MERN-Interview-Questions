@@ -1,6 +1,6 @@
 
 ⭐ @2023 Version
-### AdmitKard 7-10LPA
+### AdmitKard (7-10LPA) - 2 Rounds
 1️⃣ First round (cleared)
 
 - var vs let,
@@ -39,4 +39,45 @@
 
 Feedback:
 - You have good knowledge, practice more in depth
+----------------------------------------------------------------------
+
+
+### TestBook.com (4.5-5.5LPA) - 3 Rounds (offered MERN Stack Strategist role)
+
+1️⃣ First round (cleared)
+- var vs let vs const,
+- asked to explain a project
+
+
+2️⃣ First round (cleared)
+- var vs let vs const,
+- Closures
+- how can you contribute to testBook with your skills
+
+3️⃣ Third round (cleared)
+- var vs let vs const, (same thrice🙂)
+- Hoisting
+- Closures and implement
+- Where you see yourself in future
+- (follow up) If you Love technology that much, why TestBook? why not any purely dev based role
+
+
+
+
+
+
+Feedback:
+- Great, offer received, couldn't join in Navi Mumbai for college
+----------------------------------------------------------------------
+
+### Dhan.ai - 2 Rounds (progress)
+1️⃣ First round (cleared)
+
+- Basic JS based DSA,
+- implement map in JS to find occurrence of char
+- Sliding window algorithm with complex modification (find a range) // and also random combination where sliding window won't work
+- Personal software development experience
+
+Feedback:
+- Don't get distracted for nervousness
 ----------------------------------------------------------------------
