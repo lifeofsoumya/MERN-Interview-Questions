@@ -53,6 +53,7 @@ Feedback:
 - var vs let vs const,
 - Closures
 - how can you contribute to testBook with your skills
+- You're from ECE, how web development caught your attention
 
 3️⃣ Third round (cleared)
 - var vs let vs const, (same thrice🙂)
@@ -60,10 +61,6 @@ Feedback:
 - Closures and implement
 - Where you see yourself in future
 - (follow up) If you Love technology that much, why TestBook? why not any purely dev based role
-
-
-
-
 
 
 Feedback:
@@ -77,6 +74,20 @@ Feedback:
 - implement map in JS to find occurrence of char
 - Sliding window algorithm with complex modification (find a range) // and also random combination where sliding window won't work
 - Personal software development experience
+
+Feedback:
+- Don't get distracted for nervousness
+----------------------------------------------------------------------
+
+
+### Antares Tech - 2 Rounds (progress)
+1️⃣ First Telephonic round (cleared)
+
+- Personal Projects 
+- Interested fields in tech
+- Why you like web development
+- Good signs of a Software developer
+- Basic of WebRTC (jd related to that)
 
 Feedback:
 - Don't get distracted for nervousness
