@@ -71,8 +71,9 @@ Feedback:
 1️⃣ First round (cleared)
 
 - Basic JS based DSA,
-- implement map in JS to find occurrence of char
-- Sliding window algorithm with complex modification (find a range) // and also random combination where sliding window won't work
+- == vs ===
+- implement map in JS to find occurrence of char,
+- Sliding window algorithm with complex modification (find a range) // and also random combination where sliding window won't work,
 - Personal software development experience
 
 Feedback:
@@ -91,4 +92,29 @@ Feedback:
 
 Feedback:
 - Don't get distracted for nervousness
+
+2️⃣ Second round (progress)
+
+- My personal projects
+- Explain System design intuition behind my LMS app
+- If In your LMS webapp, 100 users uploads 300mb files, how to handle that, give me an idea,
+- What if the video upload fails,
+- Why not implement AWS upload directly from frontend without server using api (needs auth)
+- If someone uploads malicious files, how you can validate them, thought process
+- I see you're contributing to the tech community (meant I create Tech content), how you see yourself from this perspective
+- Tell more about your hashing package on npm
+- Give an idea on sha256 itself
+- Create a sleep function so that sleep(5) will stop all the processes for 5 seconds (in JS)
+- Promise discussion in Depth (with previous question's edge cases)
+- JS Execution processes
+- ACID Properties
+- JOINS in SQL with examples
+- How to implement JOINS in MongoDB
+- Reverse a number and Check if bit is overflowed by limit while reversing, preferred not to use stl functions
+- Puzzle 1: If 2 unUniform ropes, one burns in 1 hour another in 30minutes, how to know when it's 45 minutes
+- Puzzle 2: 8 coins are there, one is less weighing, I have a Iron manual weighing scale, that balances. IIn how many moves can I find the less weighing coin?
+
+Feedback:
+- Work on basics more to stand out from crowd, Don't get disheartened, I once was at your position
+
 ----------------------------------------------------------------------
