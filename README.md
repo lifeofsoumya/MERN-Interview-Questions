@@ -61,6 +61,8 @@ Feedback:
 - Closures and implement
 - Where you see yourself in future
 - (follow up) If you Love technology that much, why TestBook? why not any purely dev based role
+- Revenue vs profit
+- Let's say you have Book store, what steps you can take to increase your profit (don't include online methods)
 
 
 Feedback:
