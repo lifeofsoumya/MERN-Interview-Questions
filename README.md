@@ -68,8 +68,11 @@ Feedback:
 ----------------------------------------------------------------------
 
 ### Dhan.ai - 2 Rounds (progress)
-1️⃣ First round (cleared)
 
+1️⃣ First round (cleared)
+- Screening exam on DSA (3-4 easy to medium Qs)
+
+2️⃣ Second round (cleared)
 - Basic JS based DSA,
 - == vs ===
 - implement map in JS to find occurrence of char,
@@ -115,6 +118,7 @@ Feedback:
 - Puzzle 2: 8 coins are there, one is less weighing, I have a Iron manual weighing scale, that balances. IIn how many moves can I find the less weighing coin?
 
 Feedback:
-- Work on basics more to stand out from crowd, Don't get disheartened, I once was at your position
+- Work on basics more to stand out from crowd, Don't get disheartened, I once was at your position.
+- Do not be ashamed to share your seemingly foolish thoughts, as they may hold great potential for innovation and be exactly what is required.
 
 ----------------------------------------------------------------------
