@@ -92,6 +92,7 @@ Feedback:
 - Explain keyhasher
 - Write a query to find availability of array of names in MongoDB ($in query)
 - FS module, with customization like directly return data, convert readFile callback to promises ( got stuck as .then was showing undefined)
+- What are the advantages of TypeScript
 - create couple of Mongoose models and establish connection between them
 - Basic express server + Mongo query to find user enrolled courses ( schema didn't had proper ref so couldn't populate)
 - Asked ER Model, one to one, many to many
