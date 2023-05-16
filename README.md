@@ -46,6 +46,7 @@ Feedback:
 
 1️⃣ First round (cleared)
 - var vs let vs const,
+- Showed a snippet asked explanation (for loop with var i = 0, ...)
 - asked to explain a project
 
 
@@ -69,7 +70,7 @@ Feedback:
 - Great, offer received, couldn't join in Navi Mumbai for college
 ----------------------------------------------------------------------
 
-### Dhan.ai - 2 Rounds (progress)
+### Dhan.ai - 2 Rounds (Offered 4LPA Remote)
 
 1️⃣ First round (cleared)
 - Screening exam on DSA (3-4 easy to medium Qs)
@@ -84,6 +85,22 @@ Feedback:
 Feedback:
 - Don't get distracted for nervousness
 ----------------------------------------------------------------------
+
+3️⃣ Third round (cleared)
+- What is TypeFinance project, how it's scalable, stack and use cases
+- Explain LMS project
+- Explain keyhasher
+- Write a query to find availability of array of names in MongoDB ($in query)
+- FS module, with customization like directly return data, convert readFile callback to promises ( got stuck as .then was showing undefined)
+- create couple of Mongoose models and establish connection between them
+- Basic express server + Mongo query to find user enrolled courses ( schema didn't had proper ref so couldn't populate)
+- Asked ER Model, one to one, many to many
+- Why you're using MongoDB over SQL in Projects
+- Asked me to study and implement a crud application using SQL + ?typescript in a week and then drop email for next round, to evaluate how fast can I learn it.
+
+FeedBack: 
+- Will let you know, next day got remote offer
+
 
 
 ### Antares Tech - 2 Rounds (progress)
