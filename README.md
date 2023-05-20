@@ -1,5 +1,11 @@
 
 ⭐ @2023 Version
+### In all my interviews two questions were constant- 
+1. Tell me about yourself
+2. What are your projects? and Explain one of them (in technical depth)
+3. (at end) Any questions from your side?
+
+
 ### AdmitKard (7-10LPA) - 2 Rounds
 1️⃣ First round (cleared)
 
@@ -101,7 +107,7 @@ Feedback:
 
 FeedBack: 
 - Will let you know, next day got remote offer
-
+----------------------------------------------------------------------
 
 
 ### Antares Tech - 2 Rounds (progress)
@@ -112,9 +118,6 @@ FeedBack:
 - Why you like web development
 - Good signs of a Software developer
 - Basic of WebRTC (jd related to that)
-
-Feedback:
-- Don't get distracted for nervousness
 
 2️⃣ Second round (progress)
 
@@ -140,5 +143,40 @@ Feedback:
 Feedback:
 - Work on basics more to stand out from crowd, Don't get disheartened, I once was at your position.
 - Do not be ashamed to share your seemingly foolish thoughts, as they may hold great potential for innovation and be exactly what is required.
+
+----------------------------------------------------------------------
+
+
+### Myways.ai - 2 Rounds (progress)
+
+1️⃣ Screening exam
+- 40 Nodejs and ReactJS questions (35 minutes | easy to medium)
+
+2️⃣ Second round (cleared)
+- Introduction
+- Basics of ReactJS
+- Implement a form that takes input a number and fetches a specific post with the number as id from backend and hides the form once data is shown. It was just a simple 20 minutes round.
+
+3️⃣ Third round (progress)
+- Tell me about yourself
+- What are you major projects in MERN Stack
+- Are you familiar with any other stack on development level?
+- Solve: Given an array consisting of 2n elements in the form [x1, x2, ..., xn, y1, y2, ..., yn]. Shuffle the array in form of [x1, y1, x2, y2, ... , xn, yn].
+- Open codesandbox and Implement Reactjs timer with start, stop, resume, pause functionliaties.
+- How will you use JWT in authentication
+- Where accessToken comes into play in this
+- How are you planning to do the authentication from frontend
+- How will you design a system where (having three roles, admin, mod, user) Moderator wants to add a meeting in a portal.
+- About mongoDB
+- What libraries have you used with ReactJS
+- Do you prefer normal CSS or anything else
+- Why do you like tailwindCSS?
+- Flexbox or grid, which one you mostly use? why not grid?
+- How to center using flexbox, what if I do alignItems: end, difference between justify evenly and justify around
+- What do you use for state management
+- Basic SQL Query to update a user based on a condition
+
+Feedback:
+- While writing code, express your thought process to the interviewer.
 
 ----------------------------------------------------------------------
