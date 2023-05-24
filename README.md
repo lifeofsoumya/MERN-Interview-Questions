@@ -169,6 +169,7 @@ Feedback:
 - How are you planning to do the authentication from frontend
 - How will you design a system where (having three roles, admin, mod, user) Moderator wants to add a meeting in a portal.
 - About mongoDB
+- What are the best SEO practices you follow
 - What libraries have you used with ReactJS
 - Do you prefer normal CSS or anything else
 - Why do you like tailwindCSS?
