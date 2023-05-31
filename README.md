@@ -158,11 +158,12 @@ Feedback:
 - Basics of ReactJS
 - Implement a form that takes input a number and fetches a specific post with the number as id from backend and hides the form once data is shown. It was just a simple 20 minutes round.
 
-3️⃣ Third round (progress)
+3️⃣ Third round (progress - External interviewer)
 - Tell me about yourself
 - What are you major projects in MERN Stack
 - Are you familiar with any other stack on development level?
 - Solve: Given an array consisting of 2n elements in the form [x1, x2, ..., xn, y1, y2, ..., yn]. Shuffle the array in form of [x1, y1, x2, y2, ... , xn, yn].
+- Slice vs Splice
 - Open codesandbox and Implement Reactjs timer with start, stop, resume, pause functionliaties.
 - How will you use JWT in authentication
 - Where accessToken comes into play in this
