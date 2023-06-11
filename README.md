@@ -158,7 +158,7 @@ Feedback:
 - Basics of ReactJS
 - Implement a form that takes input a number and fetches a specific post with the number as id from backend and hides the form once data is shown. It was just a simple 20 minutes round.
 
-3️⃣ Third round (progress - External interviewer)
+3️⃣ Third round (cleared - External interviewer)
 - Tell me about yourself
 - What are you major projects in MERN Stack
 - Are you familiar with any other stack on development level?
@@ -182,4 +182,15 @@ Feedback:
 Feedback:
 - While writing code, express your thought process to the interviewer.
 
+4️⃣ Fourth round ( behalf of company named Atrina)
+- Explained all my projects one by one
+
+5️⃣ Fifth Round ( HR )
+- My experience in Development 
+- Can I relocate to a new city
+- Am I comfortable with all the conditions
+- Other necessary questions
+
+Feedback:
+I got offer, and I'm joining the Atrina
 ----------------------------------------------------------------------
